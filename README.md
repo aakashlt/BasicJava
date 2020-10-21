@@ -1,0 +1,3 @@
+# BasicJava
+basicgradle project
+mysql 
